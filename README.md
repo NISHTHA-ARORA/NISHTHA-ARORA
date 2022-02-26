@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @NISHTHA-ARORA
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+NISHTHA-ARORA/NISHTHA-ARORA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi, I am Er.Nishtha Arora. a State University Gold Medalist. 
+Currenlty working as an AI.Machine Learning Engineer and interested in learning more about AI/ML.
+Linkedin Profile: www.linkedin.com/in/er-nishtha-arora
